@@ -1,0 +1,5 @@
+- # sobre mim#
+-  👋 Ola meu nome é yasmin 
+-  🌱meu e-mail de contato: Yasmin.guesser.andrade@escola.pr.gov.br
+-  💞️me interesso em  aprender progamação 
+-   📫recentemente estou aprendendo a progamar linguagens de javascripit e scratch
